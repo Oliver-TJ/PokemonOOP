@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PokemonOOP/1.0.0": {
+        "runtime": {
+          "PokemonOOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PokemonOOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

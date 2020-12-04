@@ -1,0 +1,13 @@
+C:\Users\otj20\RiderProjects\PokemonOOP\PokemonOOP\bin\Debug\netcoreapp3.1\PokemonOOP.exe
+C:\Users\otj20\RiderProjects\PokemonOOP\PokemonOOP\bin\Debug\netcoreapp3.1\PokemonOOP.deps.json
+C:\Users\otj20\RiderProjects\PokemonOOP\PokemonOOP\bin\Debug\netcoreapp3.1\PokemonOOP.runtimeconfig.json
+C:\Users\otj20\RiderProjects\PokemonOOP\PokemonOOP\bin\Debug\netcoreapp3.1\PokemonOOP.runtimeconfig.dev.json
+C:\Users\otj20\RiderProjects\PokemonOOP\PokemonOOP\bin\Debug\netcoreapp3.1\PokemonOOP.dll
+C:\Users\otj20\RiderProjects\PokemonOOP\PokemonOOP\bin\Debug\netcoreapp3.1\PokemonOOP.pdb
+C:\Users\otj20\RiderProjects\PokemonOOP\PokemonOOP\obj\Debug\netcoreapp3.1\PokemonOOP.csprojAssemblyReference.cache
+C:\Users\otj20\RiderProjects\PokemonOOP\PokemonOOP\obj\Debug\netcoreapp3.1\PokemonOOP.AssemblyInfoInputs.cache
+C:\Users\otj20\RiderProjects\PokemonOOP\PokemonOOP\obj\Debug\netcoreapp3.1\PokemonOOP.AssemblyInfo.cs
+C:\Users\otj20\RiderProjects\PokemonOOP\PokemonOOP\obj\Debug\netcoreapp3.1\PokemonOOP.csproj.CoreCompileInputs.cache
+C:\Users\otj20\RiderProjects\PokemonOOP\PokemonOOP\obj\Debug\netcoreapp3.1\PokemonOOP.dll
+C:\Users\otj20\RiderProjects\PokemonOOP\PokemonOOP\obj\Debug\netcoreapp3.1\PokemonOOP.pdb
+C:\Users\otj20\RiderProjects\PokemonOOP\PokemonOOP\obj\Debug\netcoreapp3.1\PokemonOOP.genruntimeconfig.cache
